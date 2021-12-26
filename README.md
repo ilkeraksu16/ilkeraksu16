@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/rekli16"><img src="https://api.daily.dev/devcards/8aac13d7312f42ea839f64bfc25adad2.png?r=2oq" width="400" alt="ilker aksu's Dev Card"/></a>
